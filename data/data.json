@@ -1,0 +1,1798 @@
+[
+  {
+    "id": 1,
+    "category": "مردانه",
+    "name": "تیشرت مردانه ارغوانی",
+    "introduction": "تیشرت مردانه با جنس کتان، برش راحت و مناسب استفاده روزمره. رنگ ارغوانی و دوخت تمیز. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 568000,
+    "currency": "IRR",
+    "inventory": 18
+  },
+  {
+    "id": 2,
+    "category": "مردانه",
+    "name": "پیراهن مردانه شتری",
+    "introduction": "پیراهن رسمی مردانه از پارچه کتان با یقه کلاسیک. مناسب محیط کار و مهمانی. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 453000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 3,
+    "category": "مردانه",
+    "name": "شلوار جین مردانه شتری",
+    "introduction": "شلوار جین مردانه با دوخت محکم و پارچه جین مرغوب. رنگ شتری و فیت راحت. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800"
+    ],
+    "price": 1012000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 4,
+    "category": "مردانه",
+    "name": "شلوار کتان مردانه سبز یشمی",
+    "introduction": "شلوار کتان مردانه از پارچه چرم مصنوعی، سبک و مناسب فصل گرم. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
+    ],
+    "price": 553000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 5,
+    "category": "مردانه",
+    "name": "هودی مردانه صورتی",
+    "introduction": "هودی مردانه گرم با آستر نرم. رنگ صورتی و مناسب پاییز و زمستان. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800"
+    ],
+    "price": 525000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 6,
+    "category": "مردانه",
+    "name": "سوییشرت مردانه ارغوانی",
+    "introduction": "سوییشرت مردانه با زیپ و جیب کناری. جنس مخمل و دوام بالا. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800"
+    ],
+    "price": 1055000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 7,
+    "category": "مردانه",
+    "name": "کاپشن مردانه آبی تیره",
+    "introduction": "کاپشن مردانه ضدباد با لایه داخلی گرم. مناسب هوای سرد. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 1403000,
+    "currency": "IRR",
+    "inventory": 36
+  },
+  {
+    "id": 8,
+    "category": "مردانه",
+    "name": "کت اسپرت مردانه آبی روشن",
+    "introduction": "کت اسپرت مردانه از پارچه کتان کشی با برش مدرن. مناسب استایل کژوال. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 2167000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 9,
+    "category": "مردانه",
+    "name": "کت و شلوار مردانه آبی روشن",
+    "introduction": "ست کت و شلوار مردانه رسمی با دوخت دقیق. رنگ آبی روشن و پارچه مرغوب. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 4820000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 10,
+    "category": "مردانه",
+    "name": "پلوشرت مردانه آبی روشن",
+    "introduction": "پلوشرت مردانه یقه دار از جنس کتان. مناسب گردش و محیط نیمه‌رسمی. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 758000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 11,
+    "category": "مردانه",
+    "name": "شلوارک مردانه ارغوانی",
+    "introduction": "شلوارک مردانه سبک از پارچه ویسکوز. مناسب تابستان و ورزش سبک. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 328000,
+    "currency": "IRR",
+    "inventory": 8
+  },
+  {
+    "id": 12,
+    "category": "مردانه",
+    "name": "ژاکت مردانه گوجه‌ای",
+    "introduction": "ژاکت بافتنی مردانه با طرح ساده. گرم و مناسب لایه‌پوشی. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 749000,
+    "currency": "IRR",
+    "inventory": 8
+  },
+  {
+    "id": 13,
+    "category": "مردانه",
+    "name": "مانتو اسپرت مردانه خاکستری",
+    "introduction": "مانتو سبک مردانه برای بهار. رنگ خاکستری و برش آزاد. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 1440000,
+    "currency": "IRR",
+    "inventory": 40
+  },
+  {
+    "id": 14,
+    "category": "مردانه",
+    "name": "جلیقه مردانه آبی روشن",
+    "introduction": "جلیقه مردانه رسمی یا کژوال از جنس تریکو. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800"
+    ],
+    "price": 460000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 15,
+    "category": "زنانه",
+    "name": "مانتو زنانه نارنجی سوخته",
+    "introduction": "مانتو زنانه با طراحی شیک و پارچه پنبه. مناسب استفاده روزانه و اداری. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800"
+    ],
+    "price": 1729000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 16,
+    "category": "زنانه",
+    "name": "تونیک زنانه ارغوانی",
+    "introduction": "تونیک زنانه راحت با برش آزاد. رنگ ارغوانی و دوخت تمیز. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800"
+    ],
+    "price": 480000,
+    "currency": "IRR",
+    "inventory": 30
+  },
+  {
+    "id": 17,
+    "category": "زنانه",
+    "name": "بلوز زنانه قرمز",
+    "introduction": "بلوز زنانه از پارچه ویسکوز با یقه ظریف. مناسب استایل رسمی و کژوال. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 318000,
+    "currency": "IRR",
+    "inventory": 30
+  },
+  {
+    "id": 18,
+    "category": "زنانه",
+    "name": "شومیز زنانه سرمه‌ای",
+    "introduction": "شومیز زنانه سبک و خنک. رنگ سرمه‌ای و مناسب فصل بهار و تابستان. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800"
+    ],
+    "price": 362000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 19,
+    "category": "زنانه",
+    "name": "پیراهن مجلسی زنانه کرم",
+    "introduction": "پیراهن مجلسی زنانه با پارچه جین و طراحی شیک. مناسب مهمانی. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 1868000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 20,
+    "category": "زنانه",
+    "name": "دامن زنانه ارغوانی",
+    "introduction": "دامن زنانه با قد متوسط و پارچه چرم مصنوعی. رنگ ارغوانی. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 852000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 21,
+    "category": "زنانه",
+    "name": "شلوار پارچه‌ای زنانه گوجه‌ای",
+    "introduction": "شلوار پارچه‌ای زنانه با فیت راحت. مناسب محیط کار. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800"
+    ],
+    "price": 1037000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 22,
+    "category": "زنانه",
+    "name": "شلوار جین زنانه سفید",
+    "introduction": "شلوار جین زنانه با کشسانی مناسب و رنگ سفید. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800"
+    ],
+    "price": 638000,
+    "currency": "IRR",
+    "inventory": 60
+  },
+  {
+    "id": 23,
+    "category": "زنانه",
+    "name": "هودی زنانه گوجه‌ای",
+    "introduction": "هودی زنانه نرم و گرم. رنگ گوجه‌ای و مناسب پاییز. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 684000,
+    "currency": "IRR",
+    "inventory": 50
+  },
+  {
+    "id": 24,
+    "category": "زنانه",
+    "name": "کت زنانه صورتی",
+    "introduction": "کت زنانه رسمی از پارچه پلی‌استر. برش مدرن و ایستایی خوب. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800"
+    ],
+    "price": 1869000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 25,
+    "category": "زنانه",
+    "name": "پالتو زنانه خاکستری",
+    "introduction": "پالتو زنانه بلند و گرم. مناسب زمستان و رنگ خاکستری. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 2247000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 26,
+    "category": "زنانه",
+    "name": "سارافون زنانه سرمه‌ای",
+    "introduction": "سارافون زنانه سبک با پارچه ویسکوز. مناسب تابستان. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 403000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 27,
+    "category": "زنانه",
+    "name": "لگینگ زنانه زیتونی",
+    "introduction": "لگینگ زنانه کشی با پارچه نرم. مناسب ورزش و منزل. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 434000,
+    "currency": "IRR",
+    "inventory": 50
+  },
+  {
+    "id": 28,
+    "category": "زنانه",
+    "name": "روسری و شال ست مشکی",
+    "introduction": "ست شال و روسری هماهنگ با رنگ مشکی. پارچه لطیف. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 561000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 29,
+    "category": "زنانه",
+    "name": "ژیله زنانه طلایی",
+    "introduction": "ژیله زنانه روی بلوز یا شومیز. جنس پشم. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 435000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 30,
+    "category": "زنانه",
+    "name": "ست راحتی زنانه طلایی",
+    "introduction": "ست راحتی دو تکه زنانه از جنس تریکو. مناسب منزل. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 379000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 31,
+    "category": "بچگانه",
+    "name": "تیشرت بچگانه زیتونی",
+    "introduction": "تیشرت کودکانه نرم از پنبه. رنگ زیتونی و مناسب بازی روزانه. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 366000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 32,
+    "category": "بچگانه",
+    "name": "شلوار بچگانه گوجه‌ای",
+    "introduction": "شلوار کودکانه راحت با کش کمر. جنس مخمل. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800"
+    ],
+    "price": 286000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 33,
+    "category": "بچگانه",
+    "name": "هودی بچگانه لیمویی",
+    "introduction": "هودی گرم کودکانه با طرح ساده. رنگ لیمویی. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800"
+    ],
+    "price": 459000,
+    "currency": "IRR",
+    "inventory": 24
+  },
+  {
+    "id": 34,
+    "category": "بچگانه",
+    "name": "کاپشن بچگانه گوجه‌ای",
+    "introduction": "کاپشن کودکانه سبک و گرم. مناسب فصل سرما. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800"
+    ],
+    "price": 943000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 35,
+    "category": "بچگانه",
+    "name": "پیراهن دخترانه سرمه‌ای",
+    "introduction": "پیراهن دخترانه با پارچه لطیف. رنگ سرمه‌ای و مناسب مهمانی کودک. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800"
+    ],
+    "price": 433000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 36,
+    "category": "بچگانه",
+    "name": "ست دو تکه بچگانه نقره‌ای",
+    "introduction": "ست تیشرت و شلوار کودک. جنس پنبه و رنگ نقره‌ای. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800"
+    ],
+    "price": 607000,
+    "currency": "IRR",
+    "inventory": 5
+  },
+  {
+    "id": 37,
+    "category": "یونیسکس",
+    "name": "تیشرت ساده خاکستری",
+    "introduction": "تیشرت یونیسکس از پنبه خالص. رنگ خاکستری و برش کلاسیک. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 302000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 38,
+    "category": "یونیسکس",
+    "name": "هودی یونیسکس آبی روشن",
+    "introduction": "هودی یونیسکس oversize با جنس تریکو. مناسب خانم و آقا. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 723000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 39,
+    "category": "یونیسکس",
+    "name": "سوییشرت زیپ‌دار قرمز",
+    "introduction": "سوییشرت زیپ‌دار یونیسکس. رنگ قرمز و جیب بزرگ. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 1108000,
+    "currency": "IRR",
+    "inventory": 18
+  },
+  {
+    "id": 40,
+    "category": "اکسسوری",
+    "name": "کلاه بافتنی خاکستری",
+    "introduction": "کلاه بافتنی گرم با رنگ خاکستری. مناسب زمستان. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800"
+    ],
+    "price": 233000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 41,
+    "category": "اکسسوری",
+    "name": "شال گردن صورتی",
+    "introduction": "شال گردن نرم از جنس مخلوط پنبه و پلی‌استر. رنگ صورتی. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800"
+    ],
+    "price": 297000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 42,
+    "category": "اکسسوری",
+    "name": "کمربند چرمی سبز یشمی",
+    "introduction": "کمربند چرمی با سگک فلزی. رنگ سبز یشمی و عرض استاندارد. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 304000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 43,
+    "category": "اکسسوری",
+    "name": "جوراب نخی کرم",
+    "introduction": "جوراب نخی ضدحساسیت. رنگ کرم و سایز آزاد. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800"
+    ],
+    "price": 98000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 44,
+    "category": "ورزشی",
+    "name": "تیشرت ورزشی زیتونی",
+    "introduction": "تیشرت ورزشی خشک‌شونده سریع. رنگ زیتونی و مناسب باشگاه. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800"
+    ],
+    "price": 393000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 45,
+    "category": "ورزشی",
+    "name": "شلوار ورزشی قهوه‌ای",
+    "introduction": "شلوار ورزشی کشی با جیب زیپ‌دار. جنس پلی‌استر. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 426000,
+    "currency": "IRR",
+    "inventory": 3
+  },
+  {
+    "id": 46,
+    "category": "ورزشی",
+    "name": "ست ورزشی لیمویی",
+    "introduction": "ست تیشرت و شلوار ورزشی. رنگ لیمویی و تنفس‌پذیر. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800"
+    ],
+    "price": 448000,
+    "currency": "IRR",
+    "inventory": 5
+  },
+  {
+    "id": 47,
+    "category": "ورزشی",
+    "name": "لگ ورزشی خاکستری",
+    "introduction": "لگ ورزشی با کمر پهن. مناسب دویدن و یوگا. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800"
+    ],
+    "price": 421000,
+    "currency": "IRR",
+    "inventory": 24
+  },
+  {
+    "id": 48,
+    "category": "مردانه",
+    "name": "تیشرت مردانه آبی روشن",
+    "introduction": "تیشرت مردانه با جنس پنبه، برش راحت و مناسب استفاده روزمره. رنگ آبی روشن و دوخت تمیز. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 180000,
+    "currency": "IRR",
+    "inventory": 60
+  },
+  {
+    "id": 49,
+    "category": "مردانه",
+    "name": "پیراهن مردانه سرمه‌ای",
+    "introduction": "پیراهن رسمی مردانه از پارچه ساتن با یقه کلاسیک. مناسب محیط کار و مهمانی. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800"
+    ],
+    "price": 1073000,
+    "currency": "IRR",
+    "inventory": 24
+  },
+  {
+    "id": 50,
+    "category": "مردانه",
+    "name": "شلوار جین مردانه نقره‌ای",
+    "introduction": "شلوار جین مردانه با دوخت محکم و پارچه جین مرغوب. رنگ نقره‌ای و فیت راحت. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 1234000,
+    "currency": "IRR",
+    "inventory": 36
+  },
+  {
+    "id": 51,
+    "category": "مردانه",
+    "name": "شلوار کتان مردانه لیمویی",
+    "introduction": "شلوار کتان مردانه از پارچه کتان کشی، سبک و مناسب فصل گرم. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 705000,
+    "currency": "IRR",
+    "inventory": 36
+  },
+  {
+    "id": 52,
+    "category": "مردانه",
+    "name": "هودی مردانه گوجه‌ای",
+    "introduction": "هودی مردانه گرم با آستر نرم. رنگ گوجه‌ای و مناسب پاییز و زمستان. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800"
+    ],
+    "price": 967000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 53,
+    "category": "مردانه",
+    "name": "سوییشرت مردانه کرم",
+    "introduction": "سوییشرت مردانه با زیپ و جیب کناری. جنس ساتن و دوام بالا. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 747000,
+    "currency": "IRR",
+    "inventory": 60
+  },
+  {
+    "id": 54,
+    "category": "مردانه",
+    "name": "کاپشن مردانه لیمویی",
+    "introduction": "کاپشن مردانه ضدباد با لایه داخلی گرم. مناسب هوای سرد. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 1815000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 55,
+    "category": "مردانه",
+    "name": "کت اسپرت مردانه سرمه‌ای",
+    "introduction": "کت اسپرت مردانه از پارچه ویسکوز با برش مدرن. مناسب استایل کژوال. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800"
+    ],
+    "price": 2210000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 56,
+    "category": "مردانه",
+    "name": "کت و شلوار مردانه مشکی",
+    "introduction": "ست کت و شلوار مردانه رسمی با دوخت دقیق. رنگ مشکی و پارچه مرغوب. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 5666000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 57,
+    "category": "مردانه",
+    "name": "پلوشرت مردانه خاکستری",
+    "introduction": "پلوشرت مردانه یقه دار از جنس ویسکوز. مناسب گردش و محیط نیمه‌رسمی. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800"
+    ],
+    "price": 700000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 58,
+    "category": "مردانه",
+    "name": "شلوارک مردانه فیروزه‌ای",
+    "introduction": "شلوارک مردانه سبک از پارچه نایلون. مناسب تابستان و ورزش سبک. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800"
+    ],
+    "price": 477000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 59,
+    "category": "مردانه",
+    "name": "ژاکت مردانه زیتونی",
+    "introduction": "ژاکت بافتنی مردانه با طرح ساده. گرم و مناسب لایه‌پوشی. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800"
+    ],
+    "price": 1323000,
+    "currency": "IRR",
+    "inventory": 60
+  },
+  {
+    "id": 60,
+    "category": "مردانه",
+    "name": "مانتو اسپرت مردانه آبی تیره",
+    "introduction": "مانتو سبک مردانه برای بهار. رنگ آبی تیره و برش آزاد. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 962000,
+    "currency": "IRR",
+    "inventory": 24
+  },
+  {
+    "id": 61,
+    "category": "مردانه",
+    "name": "جلیقه مردانه بژ",
+    "introduction": "جلیقه مردانه رسمی یا کژوال از جنس کتان کشی. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800"
+    ],
+    "price": 407000,
+    "currency": "IRR",
+    "inventory": 40
+  },
+  {
+    "id": 62,
+    "category": "زنانه",
+    "name": "مانتو زنانه سبز یشمی",
+    "introduction": "مانتو زنانه با طراحی شیک و پارچه پلی‌استر. مناسب استفاده روزانه و اداری. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800"
+    ],
+    "price": 2285000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 63,
+    "category": "زنانه",
+    "name": "تونیک زنانه یاسی",
+    "introduction": "تونیک زنانه راحت با برش آزاد. رنگ یاسی و دوخت تمیز. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800"
+    ],
+    "price": 884000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 64,
+    "category": "زنانه",
+    "name": "بلوز زنانه سبز یشمی",
+    "introduction": "بلوز زنانه از پارچه ویسکوز با یقه ظریف. مناسب استایل رسمی و کژوال. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800"
+    ],
+    "price": 463000,
+    "currency": "IRR",
+    "inventory": 24
+  },
+  {
+    "id": 65,
+    "category": "زنانه",
+    "name": "شومیز زنانه بژ",
+    "introduction": "شومیز زنانه سبک و خنک. رنگ بژ و مناسب فصل بهار و تابستان. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 703000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 66,
+    "category": "زنانه",
+    "name": "پیراهن مجلسی زنانه بژ",
+    "introduction": "پیراهن مجلسی زنانه با پارچه نایلون و طراحی شیک. مناسب مهمانی. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800"
+    ],
+    "price": 1742000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 67,
+    "category": "زنانه",
+    "name": "دامن زنانه یاسی",
+    "introduction": "دامن زنانه با قد متوسط و پارچه جین. رنگ یاسی. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800"
+    ],
+    "price": 574000,
+    "currency": "IRR",
+    "inventory": 3
+  },
+  {
+    "id": 68,
+    "category": "زنانه",
+    "name": "شلوار پارچه‌ای زنانه سرمه‌ای",
+    "introduction": "شلوار پارچه‌ای زنانه با فیت راحت. مناسب محیط کار. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 452000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 69,
+    "category": "زنانه",
+    "name": "شلوار جین زنانه بژ",
+    "introduction": "شلوار جین زنانه با کشسانی مناسب و رنگ بژ. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 947000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 70,
+    "category": "زنانه",
+    "name": "هودی زنانه خاکستری",
+    "introduction": "هودی زنانه نرم و گرم. رنگ خاکستری و مناسب پاییز. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 756000,
+    "currency": "IRR",
+    "inventory": 5
+  },
+  {
+    "id": 71,
+    "category": "زنانه",
+    "name": "کت زنانه یاسی",
+    "introduction": "کت زنانه رسمی از پارچه کتان کشی. برش مدرن و ایستایی خوب. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800"
+    ],
+    "price": 1049000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 72,
+    "category": "زنانه",
+    "name": "پالتو زنانه لیمویی",
+    "introduction": "پالتو زنانه بلند و گرم. مناسب زمستان و رنگ لیمویی. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
+    ],
+    "price": 4789000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 73,
+    "category": "زنانه",
+    "name": "سارافون زنانه سرمه‌ای مدل 2",
+    "introduction": "سارافون زنانه سبک با پارچه تریکو. مناسب تابستان. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800"
+    ],
+    "price": 363000,
+    "currency": "IRR",
+    "inventory": 40
+  },
+  {
+    "id": 74,
+    "category": "زنانه",
+    "name": "لگینگ زنانه نارنجی سوخته",
+    "introduction": "لگینگ زنانه کشی با پارچه نرم. مناسب ورزش و منزل. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800"
+    ],
+    "price": 408000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 75,
+    "category": "زنانه",
+    "name": "روسری و شال ست طلایی",
+    "introduction": "ست شال و روسری هماهنگ با رنگ طلایی. پارچه لطیف. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800"
+    ],
+    "price": 582000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 76,
+    "category": "زنانه",
+    "name": "ژیله زنانه آبی روشن",
+    "introduction": "ژیله زنانه روی بلوز یا شومیز. جنس مخلوط پنبه و پلی‌استر. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 407000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 77,
+    "category": "زنانه",
+    "name": "ست راحتی زنانه قرمز",
+    "introduction": "ست راحتی دو تکه زنانه از جنس پشم. مناسب منزل. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 542000,
+    "currency": "IRR",
+    "inventory": 30
+  },
+  {
+    "id": 78,
+    "category": "بچگانه",
+    "name": "تیشرت بچگانه آبی روشن",
+    "introduction": "تیشرت کودکانه نرم از پنبه. رنگ آبی روشن و مناسب بازی روزانه. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 255000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 79,
+    "category": "بچگانه",
+    "name": "شلوار بچگانه طلایی",
+    "introduction": "شلوار کودکانه راحت با کش کمر. جنس ساتن. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800"
+    ],
+    "price": 384000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 80,
+    "category": "بچگانه",
+    "name": "هودی بچگانه آبی تیره",
+    "introduction": "هودی گرم کودکانه با طرح ساده. رنگ آبی تیره. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
+    ],
+    "price": 468000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 81,
+    "category": "بچگانه",
+    "name": "کاپشن بچگانه نارنجی سوخته",
+    "introduction": "کاپشن کودکانه سبک و گرم. مناسب فصل سرما. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800"
+    ],
+    "price": 643000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 82,
+    "category": "بچگانه",
+    "name": "پیراهن دخترانه شتری",
+    "introduction": "پیراهن دخترانه با پارچه لطیف. رنگ شتری و مناسب مهمانی کودک. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 340000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 83,
+    "category": "بچگانه",
+    "name": "ست دو تکه بچگانه فیروزه‌ای",
+    "introduction": "ست تیشرت و شلوار کودک. جنس پنبه و رنگ فیروزه‌ای. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 361000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 84,
+    "category": "یونیسکس",
+    "name": "تیشرت ساده شتری",
+    "introduction": "تیشرت یونیسکس از پنبه خالص. رنگ شتری و برش کلاسیک. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800"
+    ],
+    "price": 183000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 85,
+    "category": "یونیسکس",
+    "name": "هودی یونیسکس خاکستری",
+    "introduction": "هودی یونیسکس oversize با جنس نایلون. مناسب خانم و آقا. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800"
+    ],
+    "price": 1061000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 86,
+    "category": "یونیسکس",
+    "name": "سوییشرت زیپ‌دار طلایی",
+    "introduction": "سوییشرت زیپ‌دار یونیسکس. رنگ طلایی و جیب بزرگ. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 860000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 87,
+    "category": "اکسسوری",
+    "name": "کلاه بافتنی آبی تیره",
+    "introduction": "کلاه بافتنی گرم با رنگ آبی تیره. مناسب زمستان. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 121000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 88,
+    "category": "اکسسوری",
+    "name": "شال گردن یاسی",
+    "introduction": "شال گردن نرم از جنس ویسکوز. رنگ یاسی. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800"
+    ],
+    "price": 265000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 89,
+    "category": "اکسسوری",
+    "name": "کمربند چرمی خاکستری",
+    "introduction": "کمربند چرمی با سگک فلزی. رنگ خاکستری و عرض استاندارد. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800"
+    ],
+    "price": 507000,
+    "currency": "IRR",
+    "inventory": 12
+  },
+  {
+    "id": 90,
+    "category": "اکسسوری",
+    "name": "جوراب نخی سرمه‌ای",
+    "introduction": "جوراب نخی ضدحساسیت. رنگ سرمه‌ای و سایز آزاد. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 98000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 91,
+    "category": "ورزشی",
+    "name": "تیشرت ورزشی آبی تیره",
+    "introduction": "تیشرت ورزشی خشک‌شونده سریع. رنگ آبی تیره و مناسب باشگاه. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1467043237213-65f2da53396f?w=800"
+    ],
+    "price": 247000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 92,
+    "category": "ورزشی",
+    "name": "شلوار ورزشی سبز یشمی",
+    "introduction": "شلوار ورزشی کشی با جیب زیپ‌دار. جنس کتان. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800"
+    ],
+    "price": 619000,
+    "currency": "IRR",
+    "inventory": 8
+  },
+  {
+    "id": 93,
+    "category": "ورزشی",
+    "name": "ست ورزشی آبی تیره",
+    "introduction": "ست تیشرت و شلوار ورزشی. رنگ آبی تیره و تنفس‌پذیر. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 880000,
+    "currency": "IRR",
+    "inventory": 5
+  },
+  {
+    "id": 94,
+    "category": "ورزشی",
+    "name": "لگ ورزشی شتری",
+    "introduction": "لگ ورزشی با کمر پهن. مناسب دویدن و یوگا. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800"
+    ],
+    "price": 282000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 95,
+    "category": "مردانه",
+    "name": "تیشرت مردانه مشکی",
+    "introduction": "تیشرت مردانه با جنس کتان، برش راحت و مناسب استفاده روزمره. رنگ مشکی و دوخت تمیز. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800"
+    ],
+    "price": 533000,
+    "currency": "IRR",
+    "inventory": 80
+  },
+  {
+    "id": 96,
+    "category": "مردانه",
+    "name": "پیراهن مردانه آبی روشن",
+    "introduction": "پیراهن رسمی مردانه از پارچه مخمل با یقه کلاسیک. مناسب محیط کار و مهمانی. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 1220000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 97,
+    "category": "مردانه",
+    "name": "شلوار جین مردانه سبز یشمی",
+    "introduction": "شلوار جین مردانه با دوخت محکم و پارچه جین مرغوب. رنگ سبز یشمی و فیت راحت. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 741000,
+    "currency": "IRR",
+    "inventory": 50
+  },
+  {
+    "id": 98,
+    "category": "مردانه",
+    "name": "شلوار کتان مردانه کرم",
+    "introduction": "شلوار کتان مردانه از پارچه چرم مصنوعی، سبک و مناسب فصل گرم. مناسب چهار فصل با لایه‌پوشی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800"
+    ],
+    "price": 909000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 99,
+    "category": "مردانه",
+    "name": "هودی مردانه نارنجی سوخته",
+    "introduction": "هودی مردانه گرم با آستر نرم. رنگ نارنجی سوخته و مناسب پاییز و زمستان. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800"
+    ],
+    "price": 744000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 100,
+    "category": "مردانه",
+    "name": "سوییشرت مردانه لیمویی",
+    "introduction": "سوییشرت مردانه با زیپ و جیب کناری. جنس نایلون و دوام بالا. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800"
+    ],
+    "price": 883000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 101,
+    "category": "مردانه",
+    "name": "کاپشن مردانه نارنجی سوخته",
+    "introduction": "کاپشن مردانه ضدباد با لایه داخلی گرم. مناسب هوای سرد. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800"
+    ],
+    "price": 1833000,
+    "currency": "IRR",
+    "inventory": 18
+  },
+  {
+    "id": 102,
+    "category": "مردانه",
+    "name": "کت اسپرت مردانه خاکستری",
+    "introduction": "کت اسپرت مردانه از پارچه پنبه با برش مدرن. مناسب استایل کژوال. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800"
+    ],
+    "price": 2378000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 103,
+    "category": "مردانه",
+    "name": "کت و شلوار مردانه زیتونی",
+    "introduction": "ست کت و شلوار مردانه رسمی با دوخت دقیق. رنگ زیتونی و پارچه مرغوب. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800"
+    ],
+    "price": 5970000,
+    "currency": "IRR",
+    "inventory": 5
+  },
+  {
+    "id": 104,
+    "category": "مردانه",
+    "name": "پلوشرت مردانه آبی تیره",
+    "introduction": "پلوشرت مردانه یقه دار از جنس تریکو. مناسب گردش و محیط نیمه‌رسمی. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800"
+    ],
+    "price": 497000,
+    "currency": "IRR",
+    "inventory": 50
+  },
+  {
+    "id": 105,
+    "category": "مردانه",
+    "name": "شلوارک مردانه یاسی",
+    "introduction": "شلوارک مردانه سبک از پارچه ابریشم. مناسب تابستان و ورزش سبک. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 226000,
+    "currency": "IRR",
+    "inventory": 18
+  },
+  {
+    "id": 106,
+    "category": "مردانه",
+    "name": "ژاکت مردانه آبی روشن",
+    "introduction": "ژاکت بافتنی مردانه با طرح ساده. گرم و مناسب لایه‌پوشی. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800"
+    ],
+    "price": 816000,
+    "currency": "IRR",
+    "inventory": 20
+  },
+  {
+    "id": 107,
+    "category": "مردانه",
+    "name": "مانتو اسپرت مردانه شتری",
+    "introduction": "مانتو سبک مردانه برای بهار. رنگ شتری و برش آزاد. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 958000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 108,
+    "category": "مردانه",
+    "name": "جلیقه مردانه قهوه‌ای",
+    "introduction": "جلیقه مردانه رسمی یا کژوال از جنس کتان کشی. بدون پرزدهی پس از چندبار شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800"
+    ],
+    "price": 741000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 109,
+    "category": "زنانه",
+    "name": "مانتو زنانه یاسی",
+    "introduction": "مانتو زنانه با طراحی شیک و پارچه پلی‌استر. مناسب استفاده روزانه و اداری. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800"
+    ],
+    "price": 1718000,
+    "currency": "IRR",
+    "inventory": 2
+  },
+  {
+    "id": 110,
+    "category": "زنانه",
+    "name": "تونیک زنانه نارنجی سوخته",
+    "introduction": "تونیک زنانه راحت با برش آزاد. رنگ نارنجی سوخته و دوخت تمیز. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800"
+    ],
+    "price": 749000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 111,
+    "category": "زنانه",
+    "name": "بلوز زنانه ارغوانی",
+    "introduction": "بلوز زنانه از پارچه کتان با یقه ظریف. مناسب استایل رسمی و کژوال. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800"
+    ],
+    "price": 706000,
+    "currency": "IRR",
+    "inventory": 72
+  },
+  {
+    "id": 112,
+    "category": "زنانه",
+    "name": "شومیز زنانه طلایی",
+    "introduction": "شومیز زنانه سبک و خنک. رنگ طلایی و مناسب فصل بهار و تابستان. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800"
+    ],
+    "price": 361000,
+    "currency": "IRR",
+    "inventory": 15
+  },
+  {
+    "id": 113,
+    "category": "زنانه",
+    "name": "پیراهن مجلسی زنانه خاکستری",
+    "introduction": "پیراهن مجلسی زنانه با پارچه فلیس و طراحی شیک. مناسب مهمانی. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800"
+    ],
+    "price": 2840000,
+    "currency": "IRR",
+    "inventory": 10
+  },
+  {
+    "id": 114,
+    "category": "زنانه",
+    "name": "دامن زنانه سفید",
+    "introduction": "دامن زنانه با قد متوسط و پارچه جین. رنگ سفید. بسته‌بندی بهداشتی کارخانه.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800"
+    ],
+    "price": 703000,
+    "currency": "IRR",
+    "inventory": 40
+  },
+  {
+    "id": 115,
+    "category": "زنانه",
+    "name": "شلوار پارچه‌ای زنانه کرم",
+    "introduction": "شلوار پارچه‌ای زنانه با فیت راحت. مناسب محیط کار. قابل شستشو در ماشین لباسشویی.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 1059000,
+    "currency": "IRR",
+    "inventory": 36
+  },
+  {
+    "id": 116,
+    "category": "زنانه",
+    "name": "شلوار جین زنانه بژ مدل 2",
+    "introduction": "شلوار جین زنانه با کشسانی مناسب و رنگ بژ. دوخت دوردوخت در نقاط فشار.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1614251056216-f748f76cd228?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800"
+    ],
+    "price": 1022000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 117,
+    "category": "زنانه",
+    "name": "هودی زنانه آبی تیره",
+    "introduction": "هودی زنانه نرم و گرم. رنگ آبی تیره و مناسب پاییز. رنگ ثابت پس از شستشو.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1479064555552-3ef4979f8906?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800"
+    ],
+    "price": 507000,
+    "currency": "IRR",
+    "inventory": 48
+  },
+  {
+    "id": 118,
+    "category": "زنانه",
+    "name": "کت زنانه نارنجی سوخته",
+    "introduction": "کت زنانه رسمی از پارچه نایلون. برش مدرن و ایستایی خوب. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800"
+    ],
+    "price": 1307000,
+    "currency": "IRR",
+    "inventory": 36
+  },
+  {
+    "id": 119,
+    "category": "زنانه",
+    "name": "پالتو زنانه صورتی",
+    "introduction": "پالتو زنانه بلند و گرم. مناسب زمستان و رنگ صورتی. اتیکت سایز واضح روی محصول.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800"
+    ],
+    "price": 4382000,
+    "currency": "IRR",
+    "inventory": 0
+  },
+  {
+    "id": 120,
+    "category": "زنانه",
+    "name": "سارافون زنانه لیمویی",
+    "introduction": "سارافون زنانه سبک با پارچه فلیس. مناسب تابستان. دوخت داخلی تقویت‌شده.",
+    "image_gallery": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
+    ],
+    "price": 870000,
+    "currency": "IRR",
+    "inventory": 20
+  }
+]

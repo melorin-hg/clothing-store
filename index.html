@@ -17,14 +17,12 @@
             </ul>
         </nav>
         <div id="icons-container">
-            <button id="headerSearch-btn"><svg class="icons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search preview-icon"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg></button>
+            <button id="headerSearch-btn" href="#search-btn"><svg class="icons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search preview-icon"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg></button>
             <button id="shoppingCart-btn"><svg class="icons" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shopping-cart preview-icon"><path d="m2.05 2.05 1.099-.028a1 1 0 0 1 1.008.815l2.69 14.347A1 1 0 0 0 7.83 18H18"/><path d="M4.563 5h16.435a1 1 0 0 1 .981 1.204l-1.026 6.226A2 2 0 0 1 18.962 14H6.25"/><circle cx="18" cy="20" r="2"/><circle cx="8" cy="20" r="2"/></svg></button>
         </div>
     </header>
-    <section id="slider-box"><div>
-        <h1>کالکشن جدید ایپک رو از دست نده</h1>
-        <p>استایل اختصاصی خودت رو با جدیدترین طراحی های فصل بساز. میخوای بدونی این بار ایپک چه بمبی ترکونده؟</p>
-        <button class="buttons">مشاهده ی کالکشن</button>
+    <section id="slider-box"><div id="slider-container">
+
     </div></section>
 
     <div class="hero-container">
@@ -34,61 +32,14 @@
                 <input type="text" id="search-inputbox"> 
             </div>
             <div class="category-container">
-                <img src="images/women.png" alt="women">
-                <img src="images/children.png" alt="children">
-                <img src="images/men.png" alt="men">
+                <img src="images/women.png" alt="women" id="women">
+                <img src="images/children.png" alt="children" id="children">
+                <img src="images/men.png" alt="men" id="men">
             </div>
         </aside>
-        <div class="Product-container">
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            <div class="Product-box">
-                <img src="images/na1.jpg" alt="product-image">
-                <div>
-                    <h4 class="productName">نام محصول</h4>
-                    <span class="priceAbutton-container"><span>10,000t</span>
-                    <button class="buttons">افزودن به سبد</button></span>
-                </div>
-            </div>
-            
+        <div>
+            <div class="Product-container"></div>
+            <div class="ProductDivider-container"></div>
         </div>
     </div>
 
@@ -103,5 +54,7 @@
             <img src="images/logo.png" alt="logo">
         </div>
     </footer>
+    <script src="app.js"></script>
+    <script src="slider.js"></script>
 </body>
 </html>
